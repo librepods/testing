@@ -1,0 +1,7 @@
+{
+  "name": "memori-runner",
+  "private": true,
+  "scripts": {
+    "clone": "Shell gemini \"clone memorilabs/memori\" -d --output-format json --yolo"
+  }
+}
