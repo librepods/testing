@@ -1,3 +1,4 @@
 # testing
 
-run python client.py, listener.py is already running
+   1 - [x] run listener.py
+   2 - [ ] run client.py
